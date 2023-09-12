@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### My introduce
-https://cksal8449.github.io/MY-INTRODUCE/
 ### Team project
 https://gyeongjuuu.du.r.appspot.com/main/
 
